@@ -1,3 +1,4 @@
+#### Open .jff files in JFLAP/JFLAP7.1.jar (see in repo)
 ## Turing Machines for mathematical operations
 
 ### Multiplication
